@@ -57,7 +57,7 @@ Below is a curated comparison of commercial SaaS project management and ERP plat
 
 ## 💻 Open-Source GitHub Projects
 
-While purpose-built open-source A/E practice platforms are still emerging, below are leading open-source project management, ERP, timesheet, and AEC data platforms sorted by **GitHub Star Count** (descending).
+While purpose-built open-source A/E practice platforms are still emerging, below are leading open-source project management, ERP, timesheet, and AEC data platforms sorted by **GitHub Stars_Count** (descending).
 
 - **[MakePlane / Plane](https://github.com/makeplane/plane)** <a href="https://github.com/makeplane/plane/stargazers"><img src="https://img.shields.io/github/stars/makeplane/plane?style=social&color=white" alt="Plane Stars"/></a>  
   🚀 Modern, self-hosted open-source project tracking and workspace tool—ideal alternative to Jira/Asana for managing design sprints, task deliverables, and team issues.
